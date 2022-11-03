@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785520545225",
+    "firebase_url": "https://travel4youdb-default-rtdb.firebaseio.com",
+    "project_id": "travel4youdb",
+    "storage_bucket": "travel4youdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785520545225:android:6a2cf0b131be52e649ac18",
+        "android_client_info": {
+          "package_name": "com.example.travel4you"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785520545225-4pgpba5ae3k2tlloo1opbkeb0s00s0bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1YexCDRMo8bp1okQGVvpqRaFrRT-P3FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785520545225-4pgpba5ae3k2tlloo1opbkeb0s00s0bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
